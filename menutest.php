@@ -57,7 +57,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>컴퓨터정보공학부 201695019 김예린</p>
+                    <p> 김예린</p>
                 </div>
             </div>
         </footer>
