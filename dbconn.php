@@ -1,5 +1,5 @@
 <?php
-	$link = mysqli_connect("localhost", "root", "wlsgml16942", "final");
+	$link = mysqli_connect("localhost", "root", "password", "final");
 	
 	if (mysqli_connect_errno()){
 		echo "DB connection is failed.";
